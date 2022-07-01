@@ -38,7 +38,9 @@ O HTTP é um protocolo de comunicação e transferência, ou seja ele pega uma s
 O comando utilizado é 'git push <repositório>' 
 ```
 9. O que é a Branch master e para que serve?
-
+```
+Branch master é a parte principal do repositório é o main branch é nele que é necessário ter o resultado final do projeto.
+```
 10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?
 
 11. Qual a diferença entre git e github?

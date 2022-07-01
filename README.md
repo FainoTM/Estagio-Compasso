@@ -69,5 +69,13 @@ Código para a criação:
 
 15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
 
+Códigos e para que eles servem:
+```
+1xx: resposta informacional
+2xx: Sucesso
+3xx: Redirecionamento
+4xx: Erro da parte do cliente
+5xx: Outros erros, parte servidor
+```
 
 16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:

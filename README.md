@@ -26,7 +26,9 @@ O comando utilizado é:
 git init.
 ```
 6. O que é o HTTP?
-
+```
+É um protocolo de comunicação e transferência, a sigla significa (Hypertext Transfer Protocol)
+```
 7. Como funciona o HTTP?
 
 8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?

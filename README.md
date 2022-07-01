@@ -79,3 +79,5 @@ Códigos e para que eles servem:
 ```
 
 16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:
+
+Foi uma experiencia muito boa de aprendizado, cursos muitos bons e a equipe muito proativa para atender e extremamente competentes, por enquanto está tudo em um andamento e velocidade muito boas, minhas expectativas daqui em diante é aprender muito mais, principalmente porque de agora para frente são conteudos que eu nunca vi na vida acadêmica e com certeza irá agregar muito para o meu desenvolvimento na tecnologia.

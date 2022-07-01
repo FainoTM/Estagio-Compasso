@@ -63,6 +63,9 @@ Código para a criação:
 
 14. Quais são os três status code que modem ser utilizados para realizar o delete?
 
+200: OK <br />
+202: Aceito (colocado na fila) <br />
+204: Sem conteúdo (Foi realizado porém não existe onde foi solicitado)
 
 15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
 

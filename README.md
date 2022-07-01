@@ -52,6 +52,8 @@ git é um software já o github é uma plataforma para colocar os commits e subi
 
 12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles. 
 
+Post e Get, o get cria uma consulta e coloca as informações na URL do script no servidor, já o post faz a mesma coisa porem utiliza um metodo de chave nome/valor e é passado no corpo da mensagem.
+
 13. Qual o status code que pode ser usado na criação de um novo usuário? 
 
 

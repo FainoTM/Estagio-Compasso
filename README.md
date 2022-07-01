@@ -34,7 +34,9 @@ git init.
 O HTTP é um protocolo de comunicação e transferência, ou seja ele pega uma solicitação do usuario e comunica com o servidor, ele é o conjunto de regras que determinam como é realizado essa comunicação. 
 
 8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?
-
+```
+O comando utilizado é 'git push <repositório>' 
+```
 9. O que é a Branch master e para que serve?
 
 10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?

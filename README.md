@@ -48,6 +48,8 @@ Atualizar ultiliza-se o comando git pull e para fazer um merge com o comando ati
 
 11. Qual a diferença entre git e github?
 
+git é um software já o github é uma plataforma para colocar os commits e subir projetos, o github ultiliza a ferramenta git para poder realizar tais operações.
+
 12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles. 
 
 13. Qual o status code que pode ser usado na criação de um novo usuário? 

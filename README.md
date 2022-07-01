@@ -12,7 +12,9 @@
 </details>
 
 3. O que é Git?
-
+```
+É um controlador de versão de commits para um servidor.
+```
 4. O que é um scrum Product Owner?
 
 5. Qual o comando para criação de um novo repositório no Git?

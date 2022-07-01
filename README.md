@@ -16,10 +16,15 @@
 É um controlador de versão de commits para um servidor.
 ```
 4. O que é um scrum Product Owner?
+
 ***ProductOwner***, que é quem tem contato diretamente com o cliente e é quem tem contato com o mesmo para organizar a ordem das tarefas e sua importância(backlog).
 
 5. Qual o comando para criação de um novo repositório no Git?
 
+O comando utilizado é:
+```
+git init.
+```
 6. O que é o HTTP?
 
 7. Como funciona o HTTP?

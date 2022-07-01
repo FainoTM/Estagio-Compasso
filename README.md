@@ -42,6 +42,9 @@ O comando utilizado é 'git push <repositório>'
 Branch master é a parte principal do repositório é o main branch é nele que é necessário ter o resultado final do projeto.
 ```
 10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?
+```
+Atualizar ultiliza-se o comando git pull e para fazer um merge com o comando ativo é ultilizado o comando git merge.
+```
 
 11. Qual a diferença entre git e github?
 

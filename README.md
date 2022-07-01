@@ -56,6 +56,10 @@ Post e Get, o get cria uma consulta e coloca as informações na URL do script n
 
 13. Qual o status code que pode ser usado na criação de um novo usuário? 
 
+Código para a criação:
+```
+201 
+```
 
 14. Quais são os três status code que modem ser utilizados para realizar o delete?
 

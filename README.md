@@ -5,6 +5,11 @@
 É um framework que serve para organizar e realizar organizadamente uma tarefa de maneira rápida e prática.
 ```
 2. Como funciona o método Scrum? 
+  O scrum funciona se dividindo em timeboxes para a realização das tarefas, basicamente divididos em sprints e reuniões, são divididos
+<details>
+  <summary>3 cargos:</summary>
+  <p>ScrumMaster, que é o facilitador de reuniões e quem realiza o manegement das pessoas da equipe mantendo as mesmas no rumo certo para que foi decidido em reunião, ProductOwner, que é quem tem contato diretamente com o cliente e é quem tem contato com o mesmo para organizar a ordem das tarefas e sua importância(backlog) e os desenvolvedores, que são os movimentadores do projeto em si, nele está o front e back end, arquiteto de software. Eles também discutem a dificuldade de cada objetivo e reorganizam o que eles irão realizar na sprint.</p>
+</details>
 
 3. O que é Git?
 
